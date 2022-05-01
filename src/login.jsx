@@ -1,6 +1,6 @@
 import React, { Component } from "react";
 
-import "./Login.css";
+import "./login.css";
 
 import { Redirect } from "react-router-dom";
 
